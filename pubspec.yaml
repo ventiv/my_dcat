@@ -87,3 +87,6 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
+
+args_dependencies:
+  args: ^2.0.0
