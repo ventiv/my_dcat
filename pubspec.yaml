@@ -30,7 +30,7 @@ qdependencies:
   flutter:
     sdk: flutter
 
-args_dependencies:
+dependencies:
   args: ^2.0.0
 
   # The following adds the Cupertino Icons font to your application.
@@ -41,7 +41,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-dependencies:
+hdependencies:
   http: ^0.13.3
 
 
